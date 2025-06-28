@@ -16,22 +16,6 @@ Welcome to my GitHub! I am a passionate back-end developer, currently pursuing m
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚗 Driver and Vehicle Management System *(Desktop Application)*  
-A system with user authentication, driver profile management, and license issuance. Supports license renewal, lost/damaged license reporting, and enforcement actions.  
-**Tech:** C#, .NET Framework, SQL Server, ADO.NET, 3-Tier Architecture  
-
-### 🎬 Movie Browsing (Watch It) *(Desktop Application)*  
-An entertainment application with an intuitive JavaFX GUI, allowing users to browse movies based on subscription plans. Built with OOP principles.  
-**Tech:** Java, JavaFX, Scene Builder  
-
-### 🏦 Bank Management System *(C++ Console Application)*  
-A system designed to manage client accounts, transactions, and user authentication. Demonstrates proficiency in C++ and problem-solving.  
-**Tech:** C++, STL  
-
----
-
 ## 🎓 Education & Certifications
 
 🎓 **Ain Shams University** - Faculty of Information and Computer Science  
@@ -46,5 +30,4 @@ A structured roadmap covering core programming concepts, problem-solving, OOP, d
 ## 📫 Connect with Me
 
 📧 Email: ahmedalian.dev@gmail.com  
-📍 Location: Cairo, Egypt  
 🔗 LinkedIn: [Ahmed Alian](https://www.linkedin.com/in/ahmedalian7) 
