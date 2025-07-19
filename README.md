@@ -199,8 +199,16 @@ mindmap
 
 ### 🌟 **"Coding is not just my profession, it's my passion. Every problem is an opportunity to create something amazing!"** 
 
-![Snake animation](https://github.com/ahmedalian7/ahmedalian7/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedalian7&theme=react&hide_border=true)
 
+<details>
+<summary><b>📈 More GitHub Stats</b></summary>
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/ahmedalian7)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ahmedalian7&theme=darkhub&no-frame=true&row=1&column=6)
+
+</details>
 ---
 
 **⚡ Fun Fact:** I debug code faster than I can solve a Rubik's cube! 🎲  
