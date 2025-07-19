@@ -72,12 +72,6 @@
 
 </div>
 
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedalian7&theme=react-dark&hide_border=true&area=true&custom_title=Ahmed's%20Coding%20Journey)
-
-</div>
-
 ---
 
 ## 🎓 Education & Achievements
@@ -107,39 +101,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=DigitalWalletSystemV02&theme=radical)](https://github.com/ahmedalian7/DigitalWalletSystemV02)
 
 **🔧 Tech:** C++, Qt, STL, File I/O | **⭐ Features:** Real-time transactions, Admin panel, Secure authentication
-
-</div>
-
----
-
-## 💡 Core Competencies
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Ahmed Alian))
-    Backend Development
-      .NET Framework
-      RESTful APIs
-      Microservices
-      Database Design
-    Problem Solving
-      Algorithm Design
-      Code Optimization  
-      Debugging
-      Performance Tuning
-    Software Architecture
-      Clean Code
-      Design Patterns
-      SOLID Principles
-      System Design
-    Continuous Learning
-      Self-directed
-      Industry Trends
-      Best Practices
-      Innovation
-```
 
 </div>
 
