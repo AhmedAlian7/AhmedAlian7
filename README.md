@@ -74,7 +74,7 @@
 
 <div align="center">
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedalian7&theme=react-dark&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedalian7&theme=react-dark&hide_border=true&area=true&custom_title=Ahmed's%20Coding%20Journey)
 
 </div>
 
@@ -104,7 +104,7 @@
 ### 💰 [Digital Wallet System](https://github.com/AhmedAlian7/DigitalWalletSystemV02)
 *A comprehensive C++ financial management application with enterprise-level security*
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=digital-wallet&theme=radical)](https://github.com/ahmedalian7/digital-wallet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=DigitalWalletSystemV02&theme=radical)](https://github.com/ahmedalian7/DigitalWalletSystemV02)
 
 **🔧 Tech:** C++, Qt, STL, File I/O | **⭐ Features:** Real-time transactions, Admin panel, Secure authentication
 
