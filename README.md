@@ -202,9 +202,11 @@
 ### 🌟 **"Coding is not just my profession, it's my passion. Every problem is an opportunity to create something amazing!"** 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedalian7&theme=react&hide_border=true)
-![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/ahmedalian7)
+
 <details>
 <summary><b>📈 More GitHub Stats</b></summary>
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/ahmedalian7)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ahmedalian7&theme=darkhub&no-frame=true&row=1&column=6)
 
