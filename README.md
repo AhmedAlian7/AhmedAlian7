@@ -108,7 +108,7 @@
 ### 🚗 [Driver and Vehicle Management System](https://github.com/AhmedAlian7/DVLD-Project)
 *Comprehensive desktop application for managing driver profiles and licensing processes*
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=DigitalWalletSystemV02&theme=radical)](https://github.com/ahmedalian7/DVLD-Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=DVLD-Project&theme=radical)](https://github.com/ahmedalian7/DVLD-Project)
 
 **🔧 Tech:** WinForms, C#, .NET Framework, SQL Server, ADO.NET  | **🏗️ Architecture:** 3-Tier Architecture   | **⭐ Features:** User management, license applications, driving tests, renewals, reporting
 
@@ -117,7 +117,7 @@
 ### 🎬 [Movie Browsing (Watch It)](https://github.com/AhmedAlian7/Watch_It)
 *Entertainment application with subscription-based movie browsing*
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=DigitalWalletSystemV02&theme=radical)](https://github.com/ahmedalian7/Watch_It)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=Watch_It&theme=radical)](https://github.com/ahmedalian7/Watch_It)
 
 **🔧 Tech:** Java, JavaFX, Scene Builder | **💡 Concepts:** Extensive OOP implementation, scalable platform design  | **⭐ Features:** Subscription plans, intuitive GUI, movie catalog management
 
