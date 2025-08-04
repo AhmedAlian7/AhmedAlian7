@@ -79,28 +79,6 @@
 
 ---
 
-## 🎓 Education & Achievements
-
-### 🏛️ **Academic Excellence**
-**🎓 Ain Shams University** | *Faculty of Information and Computer Science*  
-📜 **Bachelor of Computer Science and Information Systems** *(2023 - 2027)*  
-🏆 **CGPA: 3.7/4.0** *(Excellent)*  
-
-### 📜 **Professional Development**
-**🎯 Roadmap for General Programming Foundation** | *Programming Advices*
-- ✅ 24-course structured roadmap completion
-- ✅ Core Programming & Problem-Solving
-- ✅ Object-Oriented Programming Excellence
-- ✅ Data Structures & Algorithms
-- ✅ C#, .NET, Databases and APIs
-
-### 🏆 **Achievements**
-- 🥈 **2nd Place** - Game Development Workshop (SFML) - MSP Tech Club, Ain Shams University
-- 💪 **150+ Problems Solved** on Codeforces and LeetCode
-- 📊 **Strong DSA Knowledge** through competitive programming
-
----
-
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -129,22 +107,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=DigitalWalletSystemV02&theme=radical)](https://github.com/ahmedalian7/DigitalWalletSystemV02)
 
 **🔧 Tech:** C++, Qt, STL, File I/O | **⭐ Features:** Real-time transactions, Admin panel, Secure authentication
-
-</div>
-
----
-
-## 📈 Competitive Programming
-
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/anmad.alian689)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Ahmed_Alian7)
-
-### 💪 **Problem Solving Stats**
-- 🎯 **150+ Problems Solved** across multiple platforms
-- 🧠 **Strong DSA Foundation** through consistent practice
-- 📈 **Algorithmic Thinking** applied to real-world development
 
 </div>
 
@@ -217,10 +179,6 @@
 **⚡ Fun Fact:** I solve coding problems faster than I can solve a Rubik's cube! 🎲  
 **🎵 Coding Soundtrack:** Lo-fi beats keep me focused during long coding sessions  
 **☕ Caffeine Level:** Powered by coffee and the satisfaction of clean, working code  
-
----
-
-**🌐 Languages:** Arabic (Native) | English (Intermediate - B1 CEFR)
 
 ---
 
