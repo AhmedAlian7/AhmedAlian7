@@ -177,7 +177,6 @@
 ---
 
 **⚡ Fun Fact:** I solve coding problems faster than I can solve a Rubik's cube! 🎲  
-**🎵 Coding Soundtrack:** Lo-fi beats keep me focused during long coding sessions  
 **☕ Caffeine Level:** Powered by coffee and the satisfaction of clean, working code  
 
 ---
