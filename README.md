@@ -2,11 +2,11 @@
 
 <div align="center">
   
-### 🚀 Back-End Developer | Problem Solver | Computer Science Student
+### 🚀 Back-End Developer | Computer Science Student | Problem Solver
 
 *Building scalable solutions with clean code and solid architecture* ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+.NET+Core+Specialist;Building+RESTful+APIs;150%2B+Problems+Solved;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+ASP.NET+Core+Specialist;Building+RESTful+APIs;Full+Stack+Developer;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,9 +16,8 @@
 
 > *"Passionate about backend development with a strong foundation in problem-solving and clean architecture."*
 
-🎓 **Computer Science Student** at **Ain Shams University** (GPA: 3.7/4.0)  
-💼 Specializing in **.NET Core** and **RESTful API development**  
-🧠 **Problem solver** with **150+ algorithmic challenges** solved on Codeforces & LeetCode  
+🎓 **Computer Science Student** at **Ain Shams University** 
+💼 Specializing in **ASP.NET Core** and **RESTful API development**    
 🎯 Focused on building **scalable backend solutions** and **desktop applications**  
 🌱 Continuously learning and applying **SOLID principles** in real-world projects
 
