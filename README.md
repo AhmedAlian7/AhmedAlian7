@@ -39,7 +39,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### **Frameworks & Libraries**
@@ -50,7 +49,7 @@
 
 ### **Databases & Tools**
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -78,27 +77,7 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🚗 [Driver and Vehicle Management System](https://github.com/AhmedAlian7/DVLD-Project)
-*Comprehensive desktop application for managing driver profiles and licensing processes*
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=DVLD-Project&theme=radical)](https://github.com/ahmedalian7/DVLD-Project)
-
-**🔧 Tech:** WinForms, C#, .NET Framework, SQL Server, ADO.NET  | **🏗️ Architecture:** 3-Tier Architecture   | **⭐ Features:** User management, license applications, driving tests, renewals, reporting
-
----
-
-### 🎬 [Movie Browsing (Watch It)](https://github.com/AhmedAlian7/Watch_It)
-*Entertainment application with subscription-based movie browsing*
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=Watch_It&theme=radical)](https://github.com/ahmedalian7/Watch_It)
-
-**🔧 Tech:** Java, JavaFX, Scene Builder | **💡 Concepts:** Extensive OOP implementation, scalable platform design  | **⭐ Features:** Subscription plans, intuitive GUI, movie catalog management
-
----
+## 🏆 Latest Projects
 
 ### 💰 [Digital Wallet System](https://github.com/AhmedAlian7/DigitalWalletSystemV02)
 *A comprehensive C++ financial management application with enterprise-level security*
@@ -113,25 +92,9 @@
 
 ## 📈 Coding Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <div align="center">
 
 ![Ahmed's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ahmedalian7&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
-## 🎯 Current Focus & Goals
-
-<div align="center">
-
-| 🎯 **Short Term** | 🚀 **Long Term** |
-|:---:|:---:|
-| ASP.NET Core API Development | Advanced .NET Core Features |
-| Entity Framework Core Mastery | Cloud Technologies (Azure) |
-| RESTful API Best Practices | Microservices Architecture |
-| SOLID Principles Application | Open Source Contributions |
 
 </div>
 
@@ -145,7 +108,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedalian7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedalian.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedalian-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedalian7.vercel.app/)
 
 </div>
 
@@ -180,5 +143,5 @@
 
 ---
 
-<sub>💡 <i>This README was crafted with ❤️ and lots of ☕. Last updated: Dynamic via GitHub Actions</i></sub>
+<sub>💡 <i>This README was crafted with ❤️ and lots of ☕</i></sub>
 </div>
