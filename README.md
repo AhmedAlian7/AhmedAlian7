@@ -79,7 +79,7 @@
 
 ## 🏆 Latest Projects
 <div align="center">
-### 💰 ![Digital Wallet System](https://github.com/AhmedAlian7/DigitalWalletSystemV02)
+### 💰 [Digital Wallet System](https://github.com/AhmedAlian7/DigitalWalletSystemV02)  
 *A comprehensive C++ financial management application with enterprise-level security*
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=DigitalWalletSystemV02&theme=radical)](https://github.com/ahmedalian7/DigitalWalletSystemV02)
