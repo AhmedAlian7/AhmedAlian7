@@ -79,6 +79,7 @@
 
 ## 🏆 Latest Projects
 <div align="center">
+  
 ### 💰 [Digital Wallet System](https://github.com/AhmedAlian7/DigitalWalletSystemV02)  
 *A comprehensive C++ financial management application with enterprise-level security*
 
