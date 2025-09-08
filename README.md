@@ -80,12 +80,13 @@
 ## 🏆 Latest Projects
 <div align="center">
   
-### 💰 [Digital Wallet System](https://github.com/AhmedAlian7/DigitalWalletSystemV02)  
-*A comprehensive C++ financial management application with enterprise-level security*
+### 🛒 [AuraStore](https://github.com/AhmedAlian7/AuraStore)  
+*A full-stack e-commerce platform built with ASP.NET Core, designed for scalability, security, and a modern shopping experience*
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=DigitalWalletSystemV02&theme=radical)](https://github.com/ahmedalian7/DigitalWalletSystemV02)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedalian7&repo=AuraStore&theme=radical)](https://github.com/AhmedAlian7/AuraStore)
 
-**🔧 Tech:** C++, Qt, STL, File I/O | **⭐ Features:** Real-time transactions, Admin panel, Secure authentication
+**🔧 Tech:** ASP.NET Core MVC 9.0, Entity Framework Core, SQL Server, Stripe, Cloudinary  
+**⭐ Features:** Advanced product catalog, Smart cart & payments, Wishlist, Reviews, Admin dashboard, N-Tier architecture, Role-based security
 
 </div>
 
