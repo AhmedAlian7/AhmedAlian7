@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Back-End Developer | Computer Science Student | Problem Solver
+### 🚀 Back-End Developer | Computer Science Student
 
 *Building scalable solutions with clean code and solid architecture* ✨
 
@@ -16,51 +16,13 @@
 
 > *"Passionate about backend development with a strong foundation in problem-solving and clean architecture."*
 
-🎓 **Computer Science Student** at **Ain Shams University** 
+🎓 **Computer Science Student**
 💼 Specializing in **ASP.NET Core** and **RESTful API development**    
 🎯 Focused on building **scalable backend solutions** and **desktop applications**  
-🌱 Continuously learning and applying **SOLID principles** in real-world projects
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/ahmedalian7?style=social)](https://github.com/ahmedalian7)
-[![GitHub stars](https://img.shields.io/github/stars/ahmedalian7?style=social)](https://github.com/ahmedalian7)
 [![Profile views](https://komarev.com/ghpvc/?username=ahmedalian7&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ahmedalian7)
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### **Programming Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### **Frameworks & Libraries**
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### **Databases & Tools**
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### **Development Tools & Concepts**
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-4ECDC4?style=for-the-badge&logoColor=white)
 
 </div>
 
