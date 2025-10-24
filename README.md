@@ -16,7 +16,7 @@
 
 > *"Passionate about backend development with a strong foundation in problem-solving and clean architecture."*
 
-🎓 **Computer Science Student**
+🎓 **Computer Science Student**    
 💼 Specializing in **ASP.NET Core** and **RESTful API development**    
 🎯 Focused on building **scalable backend solutions** and **desktop applications**  
 
