@@ -4,7 +4,7 @@
   
 ### Back-End Developer | Open Source Contributor
 
-*Building scalable solutions with clean code and solid architecture* ✨
+*Building scalable solutions with clean code and solid architecture*
 
 </div> 
 
@@ -24,6 +24,6 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedalian7&theme=react&hide_border=true)
+![Transparent Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedalian7&theme=transparent&hide_border=true)
 
 </div>
