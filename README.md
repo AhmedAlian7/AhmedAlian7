@@ -1,10 +1,10 @@
-# <div align="center">👋 Hey there! I'm Ahmed Alian</div>
+# <div align="center">Hey there! I'm Ahmed Alian</div>
 
 <div align="center">
   
 ### Back-End Developer | Open Source Contributor
 
-*Building scalable solutions with clean code and solid architecture*
+*Turning caffeine into scalable back-ends before the robots take over my hobbies, and chasing that open-source **"Merged"** dopamine in my free time.*
 
 </div> 
 
